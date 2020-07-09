@@ -1,4 +1,6 @@
-# Uses python3
+# Calculate Fibonacci nth Sequence
+
+
 def calc_fibonacci_naive(number):
     if number <= 1:
         return number
